@@ -1,1 +1,1 @@
-View the full doc in the pdf file
+View the full doc in the html file
